@@ -4,3 +4,4 @@
 # <h4>Out came the Sun and dried up all the rain,</h4>
 # <h5>and the itsy bitsy spider climbed up the spout again.</h5>
 # <h6>The End.</h6>
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
